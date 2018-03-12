@@ -6,7 +6,7 @@ I was first exposed to R in a class I took at the journalism school, and am now 
 
 I wanted to share with you another project that I'm currently working on - analyzing adjective polarity in movie reviews. I'm having lots of fun it with it so far, and hope to continue taking more advantage of the tidyverse as I go!
 
-You'll find my code in my Jupyter notebook titled "data-analysis." 
+You'll find my code in my Jupyter notebook titled "[data_analysis](https://github.com/navierula/adjective-polarity-analysis/blob/master/data_analysis.ipynb)".
 
 Thanks for taking the time to learn more about me, my work, and my passion for working with data to tell stories!
 
